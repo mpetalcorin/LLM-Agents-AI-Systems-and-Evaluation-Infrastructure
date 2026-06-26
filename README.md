@@ -1,7 +1,7 @@
 # LLM Agents, AI Systems, and Evaluation Infrastructure
 
 This repository contains a notebook that simulates and evaluates LLM-agent research workflows using benchmark-inspired synthetic datasets. It demonstrates Python research engineering, agent evaluation, AI-systems analysis, reproducible experimentation, statistical testing, and visual reporting.
-
+<img width="1536" height="1024" alt="LLM AGENTS AI SYSTEMS" src="https://github.com/user-attachments/assets/315b8e3d-f7fb-4f3b-90c8-7e61351b5fba" />
 ## What this project demonstrates
 
 - LLM-agent workflow simulation
