@@ -1,0 +1,7 @@
+agent,short_name,design,skill_bonus,tool_bonus,latency_multiplier,cost_multiplier,hallucination_modifier
+Direct_LLM,Direct,"Single prompt, no explicit reasoning/action loop.",0.0,-0.04,1.0,1.0,1.0
+CoT_prompted,CoT,"Reasoning prompt, no real environment action.",0.05,-0.02,1.25,1.2,0.92
+ReAct_agent,ReAct,Interleaves reasoning and tool/environment actions.,0.1,0.13,1.75,1.65,0.72
+Tool_router_agent,Tool-router,Adds structured tool selection and schema validation.,0.12,0.18,1.9,1.75,0.68
+Memory_agent,Memory,Adds retrieval memory of previous solved trajectories.,0.15,0.16,2.1,1.95,0.65
+Self_reflecting_agent,Reflect,Adds critique-and-retry after failed intermediate checks.,0.18,0.2,2.45,2.35,0.58

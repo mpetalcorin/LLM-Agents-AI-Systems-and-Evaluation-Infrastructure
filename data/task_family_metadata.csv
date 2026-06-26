@@ -1,0 +1,8 @@
+task_family,literature_anchor,description,baseline_success_anchor,difficulty,expected_tool_need
+QA_retrieval,ReAct / HotpotQA-style retrieval reasoning,Answer multi-hop questions using a retrieval tool.,0.5,0.45,0.55
+fact_verification,ReAct / FEVER-style fact checking,Verify a claim using external evidence.,0.55,0.42,0.5
+interactive_web,ReAct / WebShop-style interactive decision task,Navigate choices and select the correct item/action.,0.35,0.65,0.8
+embodied_planning,ReAct / ALFWorld-style sequential planning,Follow multi-step instructions in a simulated environment.,0.22,0.78,0.75
+tool_api_use,ToolBench / StableToolBench-style API use,"Choose tools, form valid calls, and combine outputs.",0.38,0.7,0.95
+code_patch,SWE-bench-style software issue resolution,Generate a plausible code patch and pass tests.,0.18,0.86,0.9
+safety_policy,HELM-style multi-metric evaluation,Answer helpful questions while avoiding unsafe responses.,0.72,0.35,0.2
