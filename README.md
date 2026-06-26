@@ -1,8 +1,6 @@
 # LLM Agents, AI Systems, and Evaluation Infrastructure
 
-Portfolio demonstration for a **Research Engineer, AI Systems / LLM Agents** role.
-
-This repository contains a fully executed Jupyter notebook that simulates and evaluates LLM-agent research workflows using benchmark-inspired synthetic datasets. It demonstrates practical skills in Python research engineering, agent evaluation, AI-systems analysis, reproducible experimentation, statistical testing, and visual reporting.
+This repository contains a notebook that simulates and evaluates LLM-agent research workflows using benchmark-inspired synthetic datasets. It demonstrates Python research engineering, agent evaluation, AI-systems analysis, reproducible experimentation, statistical testing, and visual reporting.
 
 ## What this project demonstrates
 
